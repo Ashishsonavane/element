@@ -34,9 +34,6 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
-  <a href="https://codspeed.io/Ashishsonavane/element?utm_source=badge">
-    <img src="https://img.shields.io/badge/CodSpeed-measured-blue" alt="CodSpeed">
-  </a>
 </p>
 
 > A Vue.js 2.0 UI Toolkit for Web.
